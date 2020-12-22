@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Chapter3/1.0.0": {
+      "ComparingInt/1.0.0": {
         "runtime": {
-          "Chapter3.dll": {}
+          "ComparingInt.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Chapter3/1.0.0": {
+    "ComparingInt/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

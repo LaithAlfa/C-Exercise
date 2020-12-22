@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\Chapter3.csproj": {}
+    "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\ComparingInt\\ComparingInt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\Chapter3.csproj": {
+    "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\ComparingInt\\ComparingInt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\Chapter3.csproj",
-        "projectName": "Chapter3",
-        "projectPath": "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\Chapter3.csproj",
+        "projectUniqueName": "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\ComparingInt\\ComparingInt.csproj",
+        "projectName": "ComparingInt",
+        "projectPath": "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\ComparingInt\\ComparingInt.csproj",
         "packagesPath": "C:\\Users\\PC_1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\obj\\",
+        "outputPath": "C:\\Users\\PC_1\\Documents\\C-Exercise\\HowToProgram\\Chapter3\\ComparingInt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC_1\\AppData\\Roaming\\NuGet\\NuGet.Config"

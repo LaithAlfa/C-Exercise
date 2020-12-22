@@ -1,0 +1,16 @@
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\obj\Debug\net5.0\ComparingInt.csprojAssemblyReference.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\obj\Debug\net5.0\ComparingInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\obj\Debug\net5.0\ComparingInt.AssemblyInfoInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\obj\Debug\net5.0\ComparingInt.AssemblyInfo.cs
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\obj\Debug\net5.0\ComparingInt.csproj.CoreCompileInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\bin\Debug\net5.0\ComparingInt.exe
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\bin\Debug\net5.0\ComparingInt.deps.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\bin\Debug\net5.0\ComparingInt.runtimeconfig.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\bin\Debug\net5.0\ComparingInt.runtimeconfig.dev.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\bin\Debug\net5.0\ComparingInt.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\bin\Debug\net5.0\ref\ComparingInt.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\bin\Debug\net5.0\ComparingInt.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\obj\Debug\net5.0\ComparingInt.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\obj\Debug\net5.0\ref\ComparingInt.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\obj\Debug\net5.0\ComparingInt.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ComparingInt\obj\Debug\net5.0\ComparingInt.genruntimeconfig.cache
