@@ -1,0 +1,16 @@
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\bin\Debug\net5.0\ArithmeticSL.exe
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\bin\Debug\net5.0\ArithmeticSL.deps.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\bin\Debug\net5.0\ArithmeticSL.runtimeconfig.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\bin\Debug\net5.0\ArithmeticSL.runtimeconfig.dev.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\bin\Debug\net5.0\ArithmeticSL.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\bin\Debug\net5.0\ref\ArithmeticSL.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\bin\Debug\net5.0\ArithmeticSL.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\obj\Debug\net5.0\ArithmeticSL.csprojAssemblyReference.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\obj\Debug\net5.0\ArithmeticSL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\obj\Debug\net5.0\ArithmeticSL.AssemblyInfoInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\obj\Debug\net5.0\ArithmeticSL.AssemblyInfo.cs
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\obj\Debug\net5.0\ArithmeticSL.csproj.CoreCompileInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\obj\Debug\net5.0\ArithmeticSL.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\obj\Debug\net5.0\ref\ArithmeticSL.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\obj\Debug\net5.0\ArithmeticSL.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\ArithmeticSL\obj\Debug\net5.0\ArithmeticSL.genruntimeconfig.cache
