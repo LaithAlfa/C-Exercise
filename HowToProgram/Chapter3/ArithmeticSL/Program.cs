@@ -6,6 +6,7 @@ namespace ArithmeticSL
     {
         static void Main(string[] args)
         {
+            //How to program Visual C# 3.17 Arithmetic, Smallest and Largest.
             int numb1, numb2, numb3;
             Console.WriteLine("Please enter 3 numbers below");
             Console.WriteLine("-----------------------------------------");
