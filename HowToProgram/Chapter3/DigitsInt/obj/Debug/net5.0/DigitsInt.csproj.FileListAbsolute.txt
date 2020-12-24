@@ -1,0 +1,16 @@
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\bin\Debug\net5.0\DigitsInt.exe
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\bin\Debug\net5.0\DigitsInt.deps.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\bin\Debug\net5.0\DigitsInt.runtimeconfig.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\bin\Debug\net5.0\DigitsInt.runtimeconfig.dev.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\bin\Debug\net5.0\DigitsInt.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\bin\Debug\net5.0\ref\DigitsInt.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\bin\Debug\net5.0\DigitsInt.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\obj\Debug\net5.0\DigitsInt.csprojAssemblyReference.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\obj\Debug\net5.0\DigitsInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\obj\Debug\net5.0\DigitsInt.AssemblyInfoInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\obj\Debug\net5.0\DigitsInt.AssemblyInfo.cs
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\obj\Debug\net5.0\DigitsInt.csproj.CoreCompileInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\obj\Debug\net5.0\DigitsInt.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\obj\Debug\net5.0\ref\DigitsInt.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\obj\Debug\net5.0\DigitsInt.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\DigitsInt\obj\Debug\net5.0\DigitsInt.genruntimeconfig.cache
