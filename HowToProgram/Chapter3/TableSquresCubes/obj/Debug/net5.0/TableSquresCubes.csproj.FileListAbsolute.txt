@@ -1,0 +1,16 @@
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\obj\Debug\net5.0\TableSquresCubes.csprojAssemblyReference.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\obj\Debug\net5.0\TableSquresCubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\obj\Debug\net5.0\TableSquresCubes.AssemblyInfoInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\obj\Debug\net5.0\TableSquresCubes.AssemblyInfo.cs
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\obj\Debug\net5.0\TableSquresCubes.csproj.CoreCompileInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\bin\Debug\net5.0\TableSquresCubes.exe
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\bin\Debug\net5.0\TableSquresCubes.deps.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\bin\Debug\net5.0\TableSquresCubes.runtimeconfig.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\bin\Debug\net5.0\TableSquresCubes.runtimeconfig.dev.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\bin\Debug\net5.0\TableSquresCubes.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\bin\Debug\net5.0\ref\TableSquresCubes.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\bin\Debug\net5.0\TableSquresCubes.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\obj\Debug\net5.0\TableSquresCubes.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\obj\Debug\net5.0\ref\TableSquresCubes.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\obj\Debug\net5.0\TableSquresCubes.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\TableSquresCubes\obj\Debug\net5.0\TableSquresCubes.genruntimeconfig.cache
