@@ -1,0 +1,16 @@
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\obj\Debug\net5.0\CarPoolSaving.csprojAssemblyReference.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\obj\Debug\net5.0\CarPoolSaving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\obj\Debug\net5.0\CarPoolSaving.AssemblyInfoInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\obj\Debug\net5.0\CarPoolSaving.AssemblyInfo.cs
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\obj\Debug\net5.0\CarPoolSaving.csproj.CoreCompileInputs.cache
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\bin\Debug\net5.0\CarPoolSaving.exe
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\bin\Debug\net5.0\CarPoolSaving.deps.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\bin\Debug\net5.0\CarPoolSaving.runtimeconfig.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\bin\Debug\net5.0\CarPoolSaving.runtimeconfig.dev.json
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\bin\Debug\net5.0\CarPoolSaving.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\bin\Debug\net5.0\ref\CarPoolSaving.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\bin\Debug\net5.0\CarPoolSaving.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\obj\Debug\net5.0\CarPoolSaving.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\obj\Debug\net5.0\ref\CarPoolSaving.dll
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\obj\Debug\net5.0\CarPoolSaving.pdb
+C:\Users\PC_1\Documents\C-Exercise\HowToProgram\Chapter3\CarPoolSaving\obj\Debug\net5.0\CarPoolSaving.genruntimeconfig.cache
